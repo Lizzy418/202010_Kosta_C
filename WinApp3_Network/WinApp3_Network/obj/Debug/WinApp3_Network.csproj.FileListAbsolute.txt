@@ -1,0 +1,10 @@
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Network\bin\Debug\WinApp3_Network.exe.config
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Network\bin\Debug\WinApp3_Network.exe
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Network\bin\Debug\WinApp3_Network.pdb
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Network\obj\Debug\WinApp3_Network.csprojAssemblyReference.cache
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Network\obj\Debug\WinApp3_Network.Form1.resources
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Network\obj\Debug\WinApp3_Network.Properties.Resources.resources
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Network\obj\Debug\WinApp3_Network.csproj.GenerateResource.cache
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Network\obj\Debug\WinApp3_Network.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Network\obj\Debug\WinApp3_Network.exe
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Network\obj\Debug\WinApp3_Network.pdb

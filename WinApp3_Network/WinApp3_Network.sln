@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinApp3_Server", "WinApp3_Network\WinApp3_Server.csproj", "{952ED4F0-223B-46B1-9BB5-65165F6A110A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinApp3_Client", "WinApp3_Client\WinApp3_Client.csproj", "{6602D2EC-9F6E-4CEF-8AE6-0A83CB1E4260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952ED4F0-223B-46B1-9BB5-65165F6A110A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952ED4F0-223B-46B1-9BB5-65165F6A110A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952ED4F0-223B-46B1-9BB5-65165F6A110A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952ED4F0-223B-46B1-9BB5-65165F6A110A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6602D2EC-9F6E-4CEF-8AE6-0A83CB1E4260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6602D2EC-9F6E-4CEF-8AE6-0A83CB1E4260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6602D2EC-9F6E-4CEF-8AE6-0A83CB1E4260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6602D2EC-9F6E-4CEF-8AE6-0A83CB1E4260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19CC4178-A630-4E14-822D-FE5AC2C8458F}
+	EndGlobalSection
+EndGlobal

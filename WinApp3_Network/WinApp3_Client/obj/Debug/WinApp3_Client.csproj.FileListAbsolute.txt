@@ -1,0 +1,10 @@
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Client\bin\Debug\WinApp3_Client.exe.config
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Client\bin\Debug\WinApp3_Client.exe
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Client\bin\Debug\WinApp3_Client.pdb
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Client\obj\Debug\WinApp3_Client.Properties.Resources.resources
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Client\obj\Debug\WinApp3_Client.csproj.GenerateResource.cache
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Client\obj\Debug\WinApp3_Client.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Client\obj\Debug\WinApp3_Client.exe
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Client\obj\Debug\WinApp3_Client.pdb
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Client\obj\Debug\WinApp3_Client.csprojAssemblyReference.cache
+C:\Users\KOSTA\source\repos\WinApp3_Network\WinApp3_Client\obj\Debug\WinApp3_Client.FrmClient.resources
